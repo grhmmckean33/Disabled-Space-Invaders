@@ -4,7 +4,7 @@ Basically, it's Space Invaders for frustrated disabled drivers!<br><br>
 
 # Table of Contents
 1.	Project Description<br>
-2.	Background<br
+2.	Background<br>
 3.	Technologies Used<br>
 4.	Requirements<br>
 5. Game Controls<br>
