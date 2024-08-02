@@ -3,12 +3,12 @@ A new take on the old classic game Space Invaders, only this war is about people
 Basically, it's Space Invaders for frustrated disabled drivers!<br><br>
 
 # Table of Contents
-1.	Project Description<br><br>
-2.	Background<br><br>
-3.	Technologies Used<br><br>
-4.	Requirements<br><br>
-5.  Game Controls
-6.	Installation Instructions<br><br>
+1.	Project Description<br>
+2.	Background<br
+3.	Technologies Used<br>
+4.	Requirements<br>
+5. Game Controls<br>
+6.	Installation Instructions<br>
 7.	Usage Instructions<br><br>
 
 # Project Description (refer to screenshot below)
